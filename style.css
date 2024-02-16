@@ -1,0 +1,89 @@
+body{
+    background-color: #e0e0e0;
+}
+
+.box1{
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    border: 1px 48% #F4B4B47A;
+    display: block;
+    margin:auto;
+    margin-top: 131px;
+    background-color: #F5F5F5;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+
+}
+
+.img{
+    width: 359px;
+    height: 200.52px;
+    border-radius: 4.59px;
+    font-weight: 500;
+    size: 16px;
+    color: #616161;
+    margin-top: 15px;
+
+
+}
+.p_email{
+    color: #616161;
+    margin-left: 25px;
+    font-weight: 500;
+    margin-top: 50px;
+    
+}
+.email{
+    width: 345px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    margin-left: 25px;
+    margin-top: 0;
+    padding-left: 10px;
+
+}
+
+.email::placeholder{
+    color: #9E9E9E;
+    font-weight: 500;
+
+}
+
+.p_password{
+    color: #616161;
+    margin-left: 25px;
+    font-weight: 500;
+}
+
+.password{
+    width: 345px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    margin-left: 25px;
+    padding-left: 10px;
+}
+
+.password::placeholder{
+    color: #9E9E9E;
+    font-weight: 500;
+
+}
+
+
+.bb{
+    width: 355px;
+    height: 45px;
+   background-color: #6756CB;
+   border-radius: 10px;
+   margin-left: 25px;
+   border: none;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700px;
+    margin-top: 15px;
+}
